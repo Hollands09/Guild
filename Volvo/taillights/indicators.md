@@ -16,3 +16,11 @@
 </p>
 	<img src="https://github.com/Hollands09/Guild/blob/main/Volvo/taillights/images/indicator_d1.png">
 </p>
+
+<h5 align="center">
+	This is the basic structure of how the taillights will work.
+</h5>
+
+</p>
+	<img src="https://github.com/Hollands09/Guild/blob/main/Volvo/taillights/images/basic_indicator_circuit.png">
+</p>
