@@ -10,10 +10,10 @@
 			The following list will be updated as projects get added or completed.  There are some ambitious projects on the horizon.<br/>
 			However, for right now I will keep my goals small and obtainable.<br/>
 		<br/>
+			</p>
 			> Taillight Assembly Redesign
 			> 
 		
-			</p>
 		<br/>
 	<br/>
 		
