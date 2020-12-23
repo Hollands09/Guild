@@ -25,7 +25,8 @@
 
 <p align="center">
 	The planned redesign in an LED implementation that will remove many components out of the car and place it into one assembly.  With the goal of making it
-	servicable, cheap and robust.
+	servicable, cheap and robust.  It will also add additional banks of lights to make use of all the space available within the taillight.  This can be
+	seen in the graph below.
 </p>
 
 >[Indicators](https://github.com/Hollands09/Guild/tree/main/Volvo/taillights/indicators.md)
