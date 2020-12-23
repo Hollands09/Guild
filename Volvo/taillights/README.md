@@ -37,9 +37,9 @@
 >[Taillights/Reverse Lights/Brake Lights](https://github.com/Hollands09/Guild/tree/main/Volvo/taillights/tlrlbl.md)
 
 
-<h3 align="center">
+<h5 align="center">
 	This is an over simplified version of the circuit that will be expanded upon in each individual section.
-</h3>
+</h5>
 
 <p align="center">
 	<img src="https://github.com/Hollands09/Guild/blob/main/Volvo/taillights/images/total_circuit.png">
