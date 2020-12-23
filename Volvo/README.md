@@ -1,4 +1,3 @@
-#Volvo
 <h1 align="center"> Introduction</h1>
 	
 <h3 align="center"> The Plan </h3>
