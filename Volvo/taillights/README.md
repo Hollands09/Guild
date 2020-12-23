@@ -1,13 +1,15 @@
 <h1 align="center">
 	Taillight Redesign
 </h1>
+
+
+
 <h3 align="center">
 	The Plan
 </h3>
 <p align="center">
 	The current taillights on the 240 series (I assume the same for the 740 and perhaps the 940) have a terrible floppy circuit "board" that is really awful.
-	especially now that all 240s are at their youngest are 27 years old.  The current setup is a plastic bulb holder with a couple of metals tangs on it
-	that are seated in the taillight assembly.  The metal tangs then make contact with the thin floppy circuit "board" which powers the lights.  There are 
+	especially now that all 240s are at their youngest are 27 years old.  The current setup is a plastic bulb holder with a couple of metals tangs, seated in the taillight assembly.  The metal tangs then make contact with the thin floppy circuit "board" which powers the lights.  There are 
 	three issues I have encountered with my 240 that I wish to make a thing of the past.
 </p>
 
@@ -33,3 +35,12 @@
 
 
 >[Taillights/Reverse Lights/Brake Lights](https://github.com/Hollands09/Guild/tree/main/Volvo/taillights/tlrlbl.md)
+
+
+<h3 align="center">
+	This is an over simplified version of the circuit that will be expanded upon in each individual section.
+</h3>
+
+<p align="center">
+	<img src="https://github.com/Hollands09/Guild/blob/main/Volvo/taillights/images/total_circuit.png">
+ </p>
